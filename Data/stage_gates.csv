@@ -1,0 +1,322 @@
+ProjectID,Gate,Decision,ReviewDate,DocumentsComplete
+CAP-0001,Intake,Approved,2025-01-10,Yes
+CAP-0001,Business Case,Approved,2025-02-10,Yes
+CAP-0001,Design,Approved,2025-03-10,Yes
+CAP-0001,Approval,Approved,2025-04-10,Yes
+CAP-0001,Execution,Approved,2025-05-10,Yes
+CAP-0001,Closeout,Approved,2025-06-10,Yes
+CAP-0002,Intake,Approved,2026-01-10,Yes
+CAP-0002,Business Case,Approved,2026-02-10,Yes
+CAP-0002,Design,Approved,2026-03-10,Yes
+CAP-0002,Approval,Approved,2026-04-10,Yes
+CAP-0002,Execution,Approved,2026-05-10,Yes
+CAP-0002,Closeout,Approved,2026-06-10,Yes
+CAP-0003,Intake,Approved,2027-01-10,Yes
+CAP-0003,Business Case,Approved,2027-02-10,Yes
+CAP-0003,Design,Approved,2027-03-10,Yes
+CAP-0003,Approval,Approved,2027-04-10,Yes
+CAP-0003,Execution,Approved,2027-05-10,Yes
+CAP-0003,Closeout,Approved,2027-06-10,Yes
+CAP-0004,Intake,Approved,2025-01-10,Yes
+CAP-0004,Business Case,Approved,2025-02-10,Yes
+CAP-0004,Design,Approved,2025-03-10,Yes
+CAP-0004,Approval,Approved,2025-04-10,Yes
+CAP-0005,Intake,Approved,2026-01-10,Yes
+CAP-0005,Business Case,Approved,2026-02-10,Yes
+CAP-0005,Design,Approved,2026-03-10,Yes
+CAP-0005,Approval,Approved,2026-04-10,Yes
+CAP-0005,Execution,Approved,2026-05-10,Yes
+CAP-0006,Intake,Approved,2027-01-10,Yes
+CAP-0006,Business Case,Approved,2027-02-10,Yes
+CAP-0006,Design,Approved,2027-03-10,Yes
+CAP-0006,Approval,Approved,2027-04-10,Yes
+CAP-0006,Execution,Approved,2027-05-10,Yes
+CAP-0007,Intake,Approved,2025-01-10,Yes
+CAP-0007,Business Case,Approved,2025-02-10,Yes
+CAP-0007,Design,Approved,2025-03-10,Yes
+CAP-0007,Approval,Approved,2025-04-10,Yes
+CAP-0007,Execution,Approved,2025-05-10,Yes
+CAP-0007,Closeout,Approved,2025-06-10,Yes
+CAP-0008,Intake,Approved,2026-01-10,Yes
+CAP-0008,Business Case,Pending,2026-02-10,Yes
+CAP-0009,Intake,Approved,2027-01-10,Yes
+CAP-0009,Business Case,Approved,2027-02-10,Yes
+CAP-0009,Design,Approved,2027-03-10,Yes
+CAP-0009,Approval,Approved,2027-04-10,Yes
+CAP-0009,Execution,Approved,2027-05-10,Yes
+CAP-0009,Closeout,Approved,2027-06-10,Yes
+CAP-0010,Intake,Approved,2025-01-10,Yes
+CAP-0010,Business Case,Pending,2025-02-10,Yes
+CAP-0011,Intake,Approved,2026-01-10,Yes
+CAP-0011,Business Case,Approved,2026-02-10,Yes
+CAP-0011,Design,Approved,2026-03-10,Yes
+CAP-0011,Approval,Approved,2026-04-10,Yes
+CAP-0011,Execution,Approved,2026-05-10,Yes
+CAP-0011,Closeout,Approved,2026-06-10,Yes
+CAP-0012,Intake,Approved,2027-01-10,Yes
+CAP-0012,Business Case,Approved,2027-02-10,Yes
+CAP-0012,Design,Approved,2027-03-10,Yes
+CAP-0012,Approval,Approved,2027-04-10,Yes
+CAP-0012,Execution,Approved,2027-05-10,Yes
+CAP-0013,Intake,Approved,2025-01-10,Yes
+CAP-0013,Business Case,Pending,2025-02-10,No
+CAP-0014,Intake,Approved,2026-01-10,Yes
+CAP-0014,Business Case,Approved,2026-02-10,Yes
+CAP-0014,Design,Approved,2026-03-10,Yes
+CAP-0014,Approval,Approved,2026-04-10,Yes
+CAP-0014,Execution,Approved,2026-05-10,Yes
+CAP-0015,Intake,Approved,2027-01-10,Yes
+CAP-0015,Business Case,Pending,2027-02-10,No
+CAP-0016,Intake,Pending,2025-01-10,No
+CAP-0017,Intake,Approved,2026-01-10,Yes
+CAP-0017,Business Case,Approved,2026-02-10,Yes
+CAP-0017,Design,Pending,2026-03-10,Yes
+CAP-0018,Intake,Approved,2027-01-10,Yes
+CAP-0018,Business Case,Approved,2027-02-10,Yes
+CAP-0018,Design,Approved,2027-03-10,Yes
+CAP-0018,Approval,Approved,2027-04-10,Yes
+CAP-0018,Execution,Approved,2027-05-10,Yes
+CAP-0019,Intake,Approved,2025-01-10,Yes
+CAP-0019,Business Case,Approved,2025-02-10,Yes
+CAP-0019,Design,Approved,2025-03-10,Yes
+CAP-0019,Approval,Approved,2025-04-10,Yes
+CAP-0019,Execution,Approved,2025-05-10,Yes
+CAP-0019,Closeout,Approved,2025-06-10,Yes
+CAP-0020,Intake,Approved,2026-01-10,Yes
+CAP-0020,Business Case,Pending,2026-02-10,Yes
+CAP-0021,Intake,Approved,2027-01-10,Yes
+CAP-0021,Business Case,Approved,2027-02-10,Yes
+CAP-0021,Design,Approved,2027-03-10,Yes
+CAP-0021,Approval,Approved,2027-04-10,Yes
+CAP-0021,Execution,Approved,2027-05-10,Yes
+CAP-0021,Closeout,Approved,2027-06-10,Yes
+CAP-0022,Intake,Approved,2025-01-10,Yes
+CAP-0022,Business Case,Approved,2025-02-10,Yes
+CAP-0022,Design,Approved,2025-03-10,Yes
+CAP-0022,Approval,Approved,2025-04-10,Yes
+CAP-0022,Execution,Approved,2025-05-10,Yes
+CAP-0022,Closeout,Approved,2025-06-10,Yes
+CAP-0023,Intake,Approved,2026-01-10,Yes
+CAP-0023,Business Case,Approved,2026-02-10,Yes
+CAP-0023,Design,Approved,2026-03-10,Yes
+CAP-0023,Approval,Approved,2026-04-10,Yes
+CAP-0024,Intake,Approved,2027-01-10,Yes
+CAP-0024,Business Case,Approved,2027-02-10,Yes
+CAP-0024,Design,Approved,2027-03-10,Yes
+CAP-0024,Approval,Approved,2027-04-10,Yes
+CAP-0025,Intake,Pending,2025-01-10,No
+CAP-0026,Intake,Approved,2026-01-10,Yes
+CAP-0026,Business Case,Approved,2026-02-10,Yes
+CAP-0026,Design,Pending,2026-03-10,No
+CAP-0027,Intake,Approved,2027-01-10,Yes
+CAP-0027,Business Case,Approved,2027-02-10,Yes
+CAP-0027,Design,Approved,2027-03-10,Yes
+CAP-0027,Approval,Approved,2027-04-10,Yes
+CAP-0027,Execution,Approved,2027-05-10,Yes
+CAP-0028,Intake,Approved,2025-01-10,Yes
+CAP-0028,Business Case,Pending,2025-02-10,Yes
+CAP-0029,Intake,Pending,2026-01-10,Yes
+CAP-0030,Intake,Approved,2027-01-10,Yes
+CAP-0030,Business Case,Approved,2027-02-10,Yes
+CAP-0030,Design,Approved,2027-03-10,Yes
+CAP-0030,Approval,Approved,2027-04-10,Yes
+CAP-0031,Intake,Approved,2025-01-10,Yes
+CAP-0031,Business Case,Approved,2025-02-10,Yes
+CAP-0031,Design,Approved,2025-03-10,Yes
+CAP-0031,Approval,Approved,2025-04-10,Yes
+CAP-0031,Execution,Approved,2025-05-10,Yes
+CAP-0032,Intake,Approved,2026-01-10,Yes
+CAP-0032,Business Case,Approved,2026-02-10,Yes
+CAP-0032,Design,Approved,2026-03-10,Yes
+CAP-0032,Approval,Approved,2026-04-10,Yes
+CAP-0032,Execution,Approved,2026-05-10,Yes
+CAP-0032,Closeout,Approved,2026-06-10,Yes
+CAP-0033,Intake,Approved,2027-01-10,Yes
+CAP-0033,Business Case,Approved,2027-02-10,Yes
+CAP-0033,Design,Approved,2027-03-10,Yes
+CAP-0033,Approval,Approved,2027-04-10,Yes
+CAP-0033,Execution,Approved,2027-05-10,Yes
+CAP-0034,Intake,Approved,2025-01-10,Yes
+CAP-0034,Business Case,Pending,2025-02-10,Yes
+CAP-0035,Intake,Approved,2026-01-10,Yes
+CAP-0035,Business Case,Pending,2026-02-10,No
+CAP-0036,Intake,Approved,2027-01-10,Yes
+CAP-0036,Business Case,Approved,2027-02-10,Yes
+CAP-0036,Design,Approved,2027-03-10,Yes
+CAP-0036,Approval,Approved,2027-04-10,Yes
+CAP-0036,Execution,Approved,2027-05-10,Yes
+CAP-0037,Intake,Approved,2025-01-10,Yes
+CAP-0037,Business Case,Approved,2025-02-10,Yes
+CAP-0037,Design,Approved,2025-03-10,Yes
+CAP-0037,Approval,Approved,2025-04-10,Yes
+CAP-0038,Intake,Approved,2026-01-10,Yes
+CAP-0038,Business Case,Approved,2026-02-10,Yes
+CAP-0038,Design,Approved,2026-03-10,Yes
+CAP-0038,Approval,Approved,2026-04-10,Yes
+CAP-0038,Execution,Approved,2026-05-10,Yes
+CAP-0038,Closeout,Approved,2026-06-10,Yes
+CAP-0039,Intake,Approved,2027-01-10,Yes
+CAP-0039,Business Case,Pending,2027-02-10,Yes
+CAP-0040,Intake,Approved,2025-01-10,Yes
+CAP-0040,Business Case,Approved,2025-02-10,Yes
+CAP-0040,Design,Approved,2025-03-10,Yes
+CAP-0040,Approval,Approved,2025-04-10,Yes
+CAP-0040,Execution,Approved,2025-05-10,Yes
+CAP-0040,Closeout,Approved,2025-06-10,Yes
+CAP-0041,Intake,Pending,2026-01-10,No
+CAP-0042,Intake,Pending,2027-01-10,No
+CAP-0043,Intake,Approved,2025-01-10,Yes
+CAP-0043,Business Case,Approved,2025-02-10,Yes
+CAP-0043,Design,Pending,2025-03-10,Yes
+CAP-0044,Intake,Approved,2026-01-10,Yes
+CAP-0044,Business Case,Approved,2026-02-10,Yes
+CAP-0044,Design,Approved,2026-03-10,Yes
+CAP-0044,Approval,Approved,2026-04-10,Yes
+CAP-0044,Execution,Approved,2026-05-10,Yes
+CAP-0044,Closeout,Approved,2026-06-10,Yes
+CAP-0045,Intake,Approved,2027-01-10,Yes
+CAP-0045,Business Case,Approved,2027-02-10,Yes
+CAP-0045,Design,Approved,2027-03-10,Yes
+CAP-0045,Approval,Approved,2027-04-10,Yes
+CAP-0045,Execution,Approved,2027-05-10,Yes
+CAP-0046,Intake,Approved,2025-01-10,Yes
+CAP-0046,Business Case,Approved,2025-02-10,Yes
+CAP-0046,Design,Approved,2025-03-10,Yes
+CAP-0046,Approval,Approved,2025-04-10,Yes
+CAP-0046,Execution,Approved,2025-05-10,Yes
+CAP-0046,Closeout,Approved,2025-06-10,Yes
+CAP-0047,Intake,Approved,2026-01-10,Yes
+CAP-0047,Business Case,Approved,2026-02-10,Yes
+CAP-0047,Design,Pending,2026-03-10,Yes
+CAP-0048,Intake,Approved,2027-01-10,Yes
+CAP-0048,Business Case,Approved,2027-02-10,Yes
+CAP-0048,Design,Approved,2027-03-10,Yes
+CAP-0048,Approval,Approved,2027-04-10,Yes
+CAP-0049,Intake,Approved,2025-01-10,Yes
+CAP-0049,Business Case,Approved,2025-02-10,Yes
+CAP-0049,Design,Approved,2025-03-10,Yes
+CAP-0049,Approval,Approved,2025-04-10,Yes
+CAP-0049,Execution,Approved,2025-05-10,Yes
+CAP-0050,Intake,Approved,2026-01-10,Yes
+CAP-0050,Business Case,Pending,2026-02-10,Yes
+CAP-0051,Intake,Approved,2027-01-10,Yes
+CAP-0051,Business Case,Pending,2027-02-10,Yes
+CAP-0052,Intake,Approved,2025-01-10,Yes
+CAP-0052,Business Case,Approved,2025-02-10,Yes
+CAP-0052,Design,Pending,2025-03-10,Yes
+CAP-0053,Intake,Approved,2026-01-10,Yes
+CAP-0053,Business Case,Approved,2026-02-10,Yes
+CAP-0053,Design,Approved,2026-03-10,Yes
+CAP-0053,Approval,Approved,2026-04-10,Yes
+CAP-0053,Execution,Approved,2026-05-10,Yes
+CAP-0053,Closeout,Approved,2026-06-10,Yes
+CAP-0054,Intake,Pending,2027-01-10,No
+CAP-0055,Intake,Approved,2025-01-10,Yes
+CAP-0055,Business Case,Approved,2025-02-10,Yes
+CAP-0055,Design,Approved,2025-03-10,Yes
+CAP-0055,Approval,Approved,2025-04-10,Yes
+CAP-0055,Execution,Approved,2025-05-10,Yes
+CAP-0056,Intake,Approved,2026-01-10,Yes
+CAP-0056,Business Case,Approved,2026-02-10,Yes
+CAP-0056,Design,Pending,2026-03-10,No
+CAP-0057,Intake,Approved,2027-01-10,Yes
+CAP-0057,Business Case,Pending,2027-02-10,No
+CAP-0058,Intake,Approved,2025-01-10,Yes
+CAP-0058,Business Case,Pending,2025-02-10,Yes
+CAP-0059,Intake,Approved,2026-01-10,Yes
+CAP-0059,Business Case,Approved,2026-02-10,Yes
+CAP-0059,Design,Approved,2026-03-10,Yes
+CAP-0059,Approval,Approved,2026-04-10,Yes
+CAP-0059,Execution,Approved,2026-05-10,Yes
+CAP-0060,Intake,Approved,2027-01-10,Yes
+CAP-0060,Business Case,Approved,2027-02-10,Yes
+CAP-0060,Design,Approved,2027-03-10,Yes
+CAP-0060,Approval,Approved,2027-04-10,Yes
+CAP-0060,Execution,Approved,2027-05-10,Yes
+CAP-0061,Intake,Pending,2025-01-10,No
+CAP-0062,Intake,Approved,2026-01-10,Yes
+CAP-0062,Business Case,Approved,2026-02-10,Yes
+CAP-0062,Design,Pending,2026-03-10,No
+CAP-0063,Intake,Approved,2027-01-10,Yes
+CAP-0063,Business Case,Approved,2027-02-10,Yes
+CAP-0063,Design,Pending,2027-03-10,Yes
+CAP-0064,Intake,Approved,2025-01-10,Yes
+CAP-0064,Business Case,Approved,2025-02-10,Yes
+CAP-0064,Design,Approved,2025-03-10,Yes
+CAP-0064,Approval,Approved,2025-04-10,Yes
+CAP-0064,Execution,Approved,2025-05-10,Yes
+CAP-0064,Closeout,Approved,2025-06-10,Yes
+CAP-0065,Intake,Approved,2026-01-10,Yes
+CAP-0065,Business Case,Approved,2026-02-10,Yes
+CAP-0065,Design,Approved,2026-03-10,Yes
+CAP-0065,Approval,Approved,2026-04-10,Yes
+CAP-0065,Execution,Approved,2026-05-10,Yes
+CAP-0065,Closeout,Approved,2026-06-10,Yes
+CAP-0066,Intake,Approved,2027-01-10,Yes
+CAP-0066,Business Case,Approved,2027-02-10,Yes
+CAP-0066,Design,Approved,2027-03-10,Yes
+CAP-0066,Approval,Approved,2027-04-10,Yes
+CAP-0066,Execution,Approved,2027-05-10,Yes
+CAP-0066,Closeout,Approved,2027-06-10,Yes
+CAP-0067,Intake,Approved,2025-01-10,Yes
+CAP-0067,Business Case,Approved,2025-02-10,Yes
+CAP-0067,Design,Pending,2025-03-10,No
+CAP-0068,Intake,Approved,2026-01-10,Yes
+CAP-0068,Business Case,Approved,2026-02-10,Yes
+CAP-0068,Design,Approved,2026-03-10,Yes
+CAP-0068,Approval,Approved,2026-04-10,Yes
+CAP-0069,Intake,Approved,2027-01-10,Yes
+CAP-0069,Business Case,Approved,2027-02-10,Yes
+CAP-0069,Design,Approved,2027-03-10,Yes
+CAP-0069,Approval,Approved,2027-04-10,Yes
+CAP-0069,Execution,Approved,2027-05-10,Yes
+CAP-0069,Closeout,Approved,2027-06-10,Yes
+CAP-0070,Intake,Approved,2025-01-10,Yes
+CAP-0070,Business Case,Approved,2025-02-10,Yes
+CAP-0070,Design,Approved,2025-03-10,Yes
+CAP-0070,Approval,Approved,2025-04-10,Yes
+CAP-0071,Intake,Approved,2026-01-10,Yes
+CAP-0071,Business Case,Approved,2026-02-10,Yes
+CAP-0071,Design,Approved,2026-03-10,Yes
+CAP-0071,Approval,Approved,2026-04-10,Yes
+CAP-0072,Intake,Approved,2027-01-10,Yes
+CAP-0072,Business Case,Pending,2027-02-10,No
+CAP-0073,Intake,Approved,2025-01-10,Yes
+CAP-0073,Business Case,Approved,2025-02-10,Yes
+CAP-0073,Design,Approved,2025-03-10,Yes
+CAP-0073,Approval,Approved,2025-04-10,Yes
+CAP-0074,Intake,Approved,2026-01-10,Yes
+CAP-0074,Business Case,Approved,2026-02-10,Yes
+CAP-0074,Design,Approved,2026-03-10,Yes
+CAP-0074,Approval,Approved,2026-04-10,Yes
+CAP-0074,Execution,Approved,2026-05-10,Yes
+CAP-0075,Intake,Approved,2027-01-10,Yes
+CAP-0075,Business Case,Approved,2027-02-10,Yes
+CAP-0075,Design,Approved,2027-03-10,Yes
+CAP-0075,Approval,Approved,2027-04-10,Yes
+CAP-0075,Execution,Approved,2027-05-10,Yes
+CAP-0076,Intake,Approved,2025-01-10,Yes
+CAP-0076,Business Case,Approved,2025-02-10,Yes
+CAP-0076,Design,Approved,2025-03-10,Yes
+CAP-0076,Approval,Approved,2025-04-10,Yes
+CAP-0076,Execution,Approved,2025-05-10,Yes
+CAP-0077,Intake,Approved,2026-01-10,Yes
+CAP-0077,Business Case,Approved,2026-02-10,Yes
+CAP-0077,Design,Approved,2026-03-10,Yes
+CAP-0077,Approval,Approved,2026-04-10,Yes
+CAP-0077,Execution,Approved,2026-05-10,Yes
+CAP-0078,Intake,Approved,2027-01-10,Yes
+CAP-0078,Business Case,Approved,2027-02-10,Yes
+CAP-0078,Design,Approved,2027-03-10,Yes
+CAP-0078,Approval,Approved,2027-04-10,Yes
+CAP-0078,Execution,Approved,2027-05-10,Yes
+CAP-0079,Intake,Approved,2025-01-10,Yes
+CAP-0079,Business Case,Approved,2025-02-10,Yes
+CAP-0079,Design,Approved,2025-03-10,Yes
+CAP-0079,Approval,Approved,2025-04-10,Yes
+CAP-0079,Execution,Approved,2025-05-10,Yes
+CAP-0079,Closeout,Approved,2025-06-10,Yes
+CAP-0080,Intake,Approved,2026-01-10,Yes
+CAP-0080,Business Case,Approved,2026-02-10,Yes
+CAP-0080,Design,Approved,2026-03-10,Yes
+CAP-0080,Approval,Approved,2026-04-10,Yes

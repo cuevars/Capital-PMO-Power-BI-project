@@ -1,0 +1,81 @@
+ProjectID,ProjectName,Facility,BudgetGroup,Country,PlanYear,ProjectType,Stage,Status,ApprovedBudget,ApprovalStatus
+CAP-0001,Packaging Modernization 01,Confectionery East,Confectionery,United States,2025,Packaging,Closeout,Completed,730000,Approved
+CAP-0002,Process Equipment Modernization 02,Confectionery West,Confectionery,United States,2026,Process Equipment,Closeout,Completed,3520000,Approved
+CAP-0003,Utilities Modernization 03,Salty Snacks Central,Salty,United States,2027,Utilities,Closeout,Completed,1160000,Approved
+CAP-0004,Safety Modernization 04,International Plant North,International,Canada,2025,Safety,Approval,On Track,520000,Approved
+CAP-0005,Automation Modernization 05,International Plant South,International,Mexico,2026,Automation,Execution,Delayed,1640000,Approved
+CAP-0006,Infrastructure Modernization 06,Confectionery East,Confectionery,United States,2027,Infrastructure,Execution,On Track,3560000,Approved
+CAP-0007,Packaging Modernization 07,Confectionery West,Confectionery,United States,2025,Packaging,Closeout,Completed,2840000,Approved
+CAP-0008,Process Equipment Modernization 08,Salty Snacks Central,Salty,United States,2026,Process Equipment,Business Case,On Track,700000,Pending
+CAP-0009,Utilities Modernization 09,International Plant North,International,Canada,2027,Utilities,Closeout,Completed,1190000,Approved
+CAP-0010,Safety Modernization 10,International Plant South,International,Mexico,2025,Safety,Business Case,Delayed,1870000,Pending
+CAP-0011,Automation Modernization 11,Confectionery East,Confectionery,United States,2026,Automation,Closeout,Completed,2500000,Approved
+CAP-0012,Infrastructure Modernization 12,Confectionery West,Confectionery,United States,2027,Infrastructure,Execution,On Track,3150000,Approved
+CAP-0013,Packaging Modernization 13,Salty Snacks Central,Salty,United States,2025,Packaging,Business Case,On Track,1680000,Pending
+CAP-0014,Process Equipment Modernization 14,International Plant North,International,Canada,2026,Process Equipment,Execution,On Track,2050000,Approved
+CAP-0015,Utilities Modernization 15,International Plant South,International,Mexico,2027,Utilities,Business Case,At Risk,2740000,Pending
+CAP-0016,Safety Modernization 16,Confectionery East,Confectionery,United States,2025,Safety,Intake,On Track,3630000,Pending
+CAP-0017,Automation Modernization 17,Confectionery West,Confectionery,United States,2026,Automation,Design,Completed,3810000,Pending
+CAP-0018,Infrastructure Modernization 18,Salty Snacks Central,Salty,United States,2027,Infrastructure,Execution,On Track,1080000,Approved
+CAP-0019,Packaging Modernization 19,International Plant North,International,Canada,2025,Packaging,Closeout,Completed,2040000,Approved
+CAP-0020,Process Equipment Modernization 20,International Plant South,International,Mexico,2026,Process Equipment,Business Case,At Risk,3550000,Pending
+CAP-0021,Utilities Modernization 21,Confectionery East,Confectionery,United States,2027,Utilities,Closeout,Completed,2230000,Approved
+CAP-0022,Safety Modernization 22,Confectionery West,Confectionery,United States,2025,Safety,Closeout,Completed,3000000,Approved
+CAP-0023,Automation Modernization 23,Salty Snacks Central,Salty,United States,2026,Automation,Approval,On Track,2350000,Approved
+CAP-0024,Infrastructure Modernization 24,International Plant North,International,Canada,2027,Infrastructure,Approval,On Track,3650000,Approved
+CAP-0025,Packaging Modernization 25,International Plant South,International,Mexico,2025,Packaging,Intake,Completed,2510000,Pending
+CAP-0026,Process Equipment Modernization 26,Confectionery East,Confectionery,United States,2026,Process Equipment,Design,On Track,3210000,Pending
+CAP-0027,Utilities Modernization 27,Confectionery West,Confectionery,United States,2027,Utilities,Execution,On Track,1370000,Approved
+CAP-0028,Safety Modernization 28,Salty Snacks Central,Salty,United States,2025,Safety,Business Case,At Risk,1850000,Pending
+CAP-0029,Automation Modernization 29,International Plant North,International,Canada,2026,Automation,Intake,At Risk,3330000,Pending
+CAP-0030,Infrastructure Modernization 30,International Plant South,International,Mexico,2027,Infrastructure,Approval,On Track,900000,Approved
+CAP-0031,Packaging Modernization 31,Confectionery East,Confectionery,United States,2025,Packaging,Execution,On Track,1540000,Approved
+CAP-0032,Process Equipment Modernization 32,Confectionery West,Confectionery,United States,2026,Process Equipment,Closeout,Completed,1570000,Approved
+CAP-0033,Utilities Modernization 33,Salty Snacks Central,Salty,United States,2027,Utilities,Execution,On Track,2620000,Approved
+CAP-0034,Safety Modernization 34,International Plant North,International,Canada,2025,Safety,Business Case,On Track,1550000,Pending
+CAP-0035,Automation Modernization 35,International Plant South,International,Mexico,2026,Automation,Business Case,Delayed,2200000,Pending
+CAP-0036,Infrastructure Modernization 36,Confectionery East,Confectionery,United States,2027,Infrastructure,Execution,At Risk,1480000,Approved
+CAP-0037,Packaging Modernization 37,Confectionery West,Confectionery,United States,2025,Packaging,Approval,At Risk,3720000,Approved
+CAP-0038,Process Equipment Modernization 38,Salty Snacks Central,Salty,United States,2026,Process Equipment,Closeout,Completed,1380000,Approved
+CAP-0039,Utilities Modernization 39,International Plant North,International,Canada,2027,Utilities,Business Case,On Track,2450000,Pending
+CAP-0040,Safety Modernization 40,International Plant South,International,Mexico,2025,Safety,Closeout,Completed,2270000,Approved
+CAP-0041,Automation Modernization 41,Confectionery East,Confectionery,United States,2026,Automation,Intake,Completed,2130000,Pending
+CAP-0042,Infrastructure Modernization 42,Confectionery West,Confectionery,United States,2027,Infrastructure,Intake,On Track,930000,Pending
+CAP-0043,Packaging Modernization 43,Salty Snacks Central,Salty,United States,2025,Packaging,Design,At Risk,320000,Pending
+CAP-0044,Process Equipment Modernization 44,International Plant North,International,Canada,2026,Process Equipment,Closeout,Completed,1920000,Approved
+CAP-0045,Utilities Modernization 45,International Plant South,International,Mexico,2027,Utilities,Execution,On Track,2110000,Approved
+CAP-0046,Safety Modernization 46,Confectionery East,Confectionery,United States,2025,Safety,Closeout,Completed,330000,Approved
+CAP-0047,Automation Modernization 47,Confectionery West,Confectionery,United States,2026,Automation,Design,On Track,2090000,Pending
+CAP-0048,Infrastructure Modernization 48,Salty Snacks Central,Salty,United States,2027,Infrastructure,Approval,On Track,3400000,Approved
+CAP-0049,Packaging Modernization 49,International Plant North,International,Canada,2025,Packaging,Execution,On Track,810000,Approved
+CAP-0050,Process Equipment Modernization 50,International Plant South,International,Mexico,2026,Process Equipment,Business Case,On Track,3750000,Pending
+CAP-0051,Utilities Modernization 51,Confectionery East,Confectionery,United States,2027,Utilities,Business Case,On Track,3450000,Pending
+CAP-0052,Safety Modernization 52,Confectionery West,Confectionery,United States,2025,Safety,Design,On Track,2670000,Pending
+CAP-0053,Automation Modernization 53,Salty Snacks Central,Salty,United States,2026,Automation,Closeout,Completed,980000,Approved
+CAP-0054,Infrastructure Modernization 54,International Plant North,International,Canada,2027,Infrastructure,Intake,Delayed,3300000,Pending
+CAP-0055,Packaging Modernization 55,International Plant South,International,Mexico,2025,Packaging,Execution,Completed,1090000,Approved
+CAP-0056,Process Equipment Modernization 56,Confectionery East,Confectionery,United States,2026,Process Equipment,Design,Completed,3380000,Pending
+CAP-0057,Utilities Modernization 57,Confectionery West,Confectionery,United States,2027,Utilities,Business Case,On Track,1450000,Pending
+CAP-0058,Safety Modernization 58,Salty Snacks Central,Salty,United States,2025,Safety,Business Case,At Risk,3250000,Pending
+CAP-0059,Automation Modernization 59,International Plant North,International,Canada,2026,Automation,Execution,On Track,1740000,Approved
+CAP-0060,Infrastructure Modernization 60,International Plant South,International,Mexico,2027,Infrastructure,Execution,On Track,3300000,Approved
+CAP-0061,Packaging Modernization 61,Confectionery East,Confectionery,United States,2025,Packaging,Intake,At Risk,3380000,Pending
+CAP-0062,Process Equipment Modernization 62,Confectionery West,Confectionery,United States,2026,Process Equipment,Design,On Track,2560000,Pending
+CAP-0063,Utilities Modernization 63,Salty Snacks Central,Salty,United States,2027,Utilities,Design,At Risk,770000,Pending
+CAP-0064,Safety Modernization 64,International Plant North,International,Canada,2025,Safety,Closeout,Completed,2890000,Approved
+CAP-0065,Automation Modernization 65,International Plant South,International,Mexico,2026,Automation,Closeout,Completed,550000,Approved
+CAP-0066,Infrastructure Modernization 66,Confectionery East,Confectionery,United States,2027,Infrastructure,Closeout,Completed,1600000,Approved
+CAP-0067,Packaging Modernization 67,Confectionery West,Confectionery,United States,2025,Packaging,Design,At Risk,3200000,Pending
+CAP-0068,Process Equipment Modernization 68,Salty Snacks Central,Salty,United States,2026,Process Equipment,Approval,On Track,240000,Approved
+CAP-0069,Utilities Modernization 69,International Plant North,International,Canada,2027,Utilities,Closeout,Completed,1710000,Approved
+CAP-0070,Safety Modernization 70,International Plant South,International,Mexico,2025,Safety,Approval,Completed,2610000,Approved
+CAP-0071,Automation Modernization 71,Confectionery East,Confectionery,United States,2026,Automation,Approval,On Track,3870000,Approved
+CAP-0072,Infrastructure Modernization 72,Confectionery West,Confectionery,United States,2027,Infrastructure,Business Case,On Track,3630000,Pending
+CAP-0073,Packaging Modernization 73,Salty Snacks Central,Salty,United States,2025,Packaging,Approval,Completed,1080000,Approved
+CAP-0074,Process Equipment Modernization 74,International Plant North,International,Canada,2026,Process Equipment,Execution,Delayed,3840000,Approved
+CAP-0075,Utilities Modernization 75,International Plant South,International,Mexico,2027,Utilities,Execution,At Risk,3170000,Approved
+CAP-0076,Safety Modernization 76,Confectionery East,Confectionery,United States,2025,Safety,Execution,At Risk,450000,Approved
+CAP-0077,Automation Modernization 77,Confectionery West,Confectionery,United States,2026,Automation,Execution,On Track,470000,Approved
+CAP-0078,Infrastructure Modernization 78,Salty Snacks Central,Salty,United States,2027,Infrastructure,Execution,Delayed,480000,Approved
+CAP-0079,Packaging Modernization 79,International Plant North,International,Canada,2025,Packaging,Closeout,Completed,620000,Approved
+CAP-0080,Process Equipment Modernization 80,International Plant South,International,Mexico,2026,Process Equipment,Approval,On Track,3550000,Approved
