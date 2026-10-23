@@ -1,0 +1,44 @@
+-- Capital PMO Dashboard
+-- DAX Measures
+-- Each measure is created separately in Power BI Desktop.
+
+Total Budget =
+SUM('Projects'[ApprovedBudget])
+
+Total Actual Spend =
+SUM('MonthlySpend'[ActualSpend])
+
+Budget Remaining =
+[Total Budget] - [Total Actual Spend]
+
+Budget Utilization % =
+DIVIDE(
+    [Total Actual Spend],
+    [Total Budget],
+    0
+)
+
+Project Count =
+DISTINCTCOUNT('Projects'[ProjectID])
+
+Approved Reviews =
+CALCULATE(
+    COUNTROWS('StageGates'),
+    'StageGates'[Decision] = "Approved"
+)
+
+Pending Reviews =
+CALCULATE(
+    COUNTROWS('StageGates'),
+    'StageGates'[Decision] = "Pending"
+)
+
+Documentation Compliance % =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS('StageGates'),
+        'StageGates'[DocumentsComplete] = "Yes"
+    ),
+    COUNTROWS('StageGates'),
+    0
+)
