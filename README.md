@@ -25,7 +25,7 @@ A three-page Power BI dashboard designed to demonstrate how a Capital Project Ma
 
 ### 1. Capital Portfolio Overview
 
-![Capital Portfolio Overview](docs/screenshots/Portfolio-Overview.png)
+<img width="1938" height="1074" alt="Portfolio-Overview" src="https://github.com/user-attachments/assets/6bb62447-7fd1-4661-b505-02606c399dda" />
 
 Provides an at-a-glance view of capital investment performance, including:
 
@@ -38,7 +38,8 @@ Provides an at-a-glance view of capital investment performance, including:
 
 ### 2. Project Governance & Compliance
 
-![Project Governance and Compliance](docs/screenshots/project-governance.png)
+<img width="1936" height="1082" alt="project-governance" src="https://github.com/user-attachments/assets/8b32640d-aca2-42e3-a74b-db09df8eb187" />
+
 
 Tracks the simulated capital stage-gate review process through:
 
@@ -51,7 +52,8 @@ The page is designed to demonstrate how project approval governance and document
 
 ### 3. Capital Investment Trends
 
-![Capital Investment Trends](docs/screenshots/year-over-year.png)
+<img width="1944" height="1092" alt="year-over-year" src="https://github.com/user-attachments/assets/3f608b0e-c104-4c4c-b1a3-319c7b093fa8" />
+
 
 Compares approved capital budgets and actual expenditures for FY2025–2027, including:
 
